@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the [Department of Mathematics: Analysis, Logic, and Discrete Mathematics](https://cage.ugent.be/we16/index.en.html), Ghent University, , supervised by [Prof. Michael Ruzhansky](https://ruzhansky.org/) and [Prof. Sven Nõmm](https://www.etis.ee/CV/Sven_N%C3%B5mm/eng/).
+Xuechao Wang (王学超) is currently a PhD student at the [Department of Mathematics: Analysis, Logic, and Discrete Mathematics](https://cage.ugent.be/we16/index.en.html), Ghent University, supervised by [Prof. Michael Ruzhansky](https://ruzhansky.org/) and [Prof. Sven Nõmm](https://www.etis.ee/CV/Sven_N%C3%B5mm/eng/). His research interests include computer vision, healthcare, explainable AI, and deep learning.
 
-My research interests include computer vision, healthcare, explainable AI, and deep learning.
+Email: xuechao.wang@ugent.be
 
 [Wechat](/images/wechat.jpg) / [Blog](https://blog.csdn.net/weixin_45422462)
 
