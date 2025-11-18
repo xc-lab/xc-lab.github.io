@@ -12,8 +12,8 @@ Email: xuechao.wang@ugent.be
 
 [Wechat](/images/wechat.jpg) / [Blog](https://blog.csdn.net/weixin_45422462)
 
-Research Interests
-======
+**Research Interests**
+------
 1. Image segmentation
 - Amodal segmentation
 - Interactive segmentation
@@ -26,8 +26,8 @@ Research Interests
 - Prognosis prediction for salivary gland cancer
   
 
-Getting started
-======
+**Publications**
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
