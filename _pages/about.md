@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a PhD student at the [Department of Mathematics: Analysis, Logic, and Discrete Mathematics](https://cage.ugent.be/we16/index.en.html), Ghent University, , supervised by [Prof. Michael Ruzhansky](https://ruzhansky.org/) and [Prof. Sven Nõmm](https://www.etis.ee/CV/Sven_N%C3%B5mm/eng/).
+
+My research interests include computer vision, healthcare, explainable AI, and deep learning.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
