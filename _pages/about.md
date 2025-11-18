@@ -14,16 +14,17 @@ Email: xuechao.wang@ugent.be
 
 Research Interests
 ======
-1. Explainable AI
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 1. Image segmentation
 - Amodal segmentation
 - Interactive segmentation
-1. AI for science
-- Parkinson's disease diagnosis
-- Particle segmentation
+1. Explainable AI
+- Model interpretation
+1. AI for Science and Healthcare
+- Parkinson’s disease diagnosis
+- Microscopic particle segmentation
+- Alloy powder impurity detection
+- Prognosis prediction for salivary gland cancer
+  
 
 Getting started
 ======
