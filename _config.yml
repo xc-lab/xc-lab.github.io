@@ -26,9 +26,9 @@ author:
   avatar           : "xuechao.png"
   name             : "Xuechao Wang"
   pronouns         : # example: "she/her"  
-  bio              : "王学超"
+  bio              : "Ghent University"
   location         : "Ghent, Belgium"
-  employer         : "Ghent University"
+  employer         : # "Ghent University"
   uri              : # URL
   email            : "xuechao.wang@ugent.be" 
 
