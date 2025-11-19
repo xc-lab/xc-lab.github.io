@@ -58,3 +58,28 @@ Email: xuechao.wang@ugent.be
     [[DOI](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_33)]  
 
 
+## 📖 Education
+---
+- **Ph.D. in Computer Science**  
+  Department of Mathematics: Analysis, Logic, and Discrete Mathematics, Ghent University, Ghent, Belgium  
+  *2021.09 – present*
+
+- **M.Sc. in Applied Mathematics**  
+  School of Mathematics and Physics, Beihang University (BUAA), Beijing, China  
+  *2018.09 – 2021.01*
+  
+- **B.Sc. in Mathematics**  
+  School of Mathematics and Statistics, Shandong Normal University, Jinan, China  
+  *2014.09 – 2018.09*
+
+
+
+
+
+
+
+
+
+
+
+
