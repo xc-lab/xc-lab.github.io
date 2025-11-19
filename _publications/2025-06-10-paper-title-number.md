@@ -1,7 +1,7 @@
 ---
 title: "Performing Particle Image Segmentation on an Extremely Small Dataset"
 collection: publications
-category: book chapter
+category: book chapters
 permalink: /publication/2024-02-17-paper-title-number-4
 # excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-03-15
