@@ -3,7 +3,7 @@ title: "Semi-Sparsity for Smoothing Filters"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Semi-sparsity priors, edge-preserving filtering, image smoothing, image enhancement and abstraction, mesh denoising'
+excerpt: 'Semi-sparsity priors, Edge-preserving filtering, Image smoothing, Image enhancement and abstraction, Mesh denoising'
 date: 2023-02-28
 venue: 'IEEE Transactions on Image Processing'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
