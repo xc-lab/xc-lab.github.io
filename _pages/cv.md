@@ -31,28 +31,12 @@ My research interests include computer vision, healthcare, explainable AI, and d
 - **M.Sc. in Applied Mathematics**  
   School of Mathematics and Physics, Beihang University (BUAA), Beijing, China  
   *2018.09 – 2021.01*
+  **Supervisor:** Prof. Haihui Wang  
 
 - **B.Sc. in Mathematics**  
   School of Mathematics and Statistics, Shandong Normal University, Jinan, China  
   *2014.09 – 2018.09*
 
----
-
-## 🔍 Research Interests
-
-- **Image Segmentation**
-  - Amodal segmentation  
-  - Interactive segmentation  
-  - Microscopic particle segmentation  
-  - Alloy powder impurity detection  
-
-- **Explainable AI**
-  - Model interpretation  
-  - Visual explanation for deep neural networks  
-
-- **AI for Science and Healthcare**
-  - Parkinson’s disease diagnosis  
-  - Prognosis prediction for salivary gland cancer  
 
 ---
 
@@ -76,31 +60,33 @@ My research interests include computer vision, healthcare, explainable AI, and d
    *Biomedical Signal Processing and Control*, 2023  
    [[DOI](https://www.sciencedirect.com/science/article/pii/S1746809423008698)] [[arXiv](https://arxiv.org/abs/2309.14288)]
 
-4. **[A Lightweight CNN Model for Efficient Parkinson’s Disease Diagnostics](https://ieeexplore.ieee.org/abstract/document/10178828)**  
-   **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Kadri Medijainen, Pille Taba, Aaro Toomela, Sven Nõmm, Michael Ruzhansky  
-   *IEEE*, 2023  
-   [[DOI](https://ieeexplore.ieee.org/abstract/document/10178828)] [[arXiv](https://arxiv.org/abs/2302.00973)]
-
-5. **[Semi-Sparsity for Smoothing Filters](https://ieeexplore.ieee.org/abstract/document/10054601)**  
+4. **[Semi-Sparsity for Smoothing Filters](https://ieeexplore.ieee.org/abstract/document/10054601)**  
    Junqing Huang, Haihui Wang, **Xuechao Wang**, Michael Ruzhansky  
-   *IEEE*, 2023  
+   *IEEE Transactions on Image Processing*, 2023  
    [[DOI](https://ieeexplore.ieee.org/abstract/document/10054601)] [[arXiv](https://arxiv.org/abs/2107.00627)]
 
 ### **Conference Papers**
 
+5. **[A Lightweight CNN Model for Efficient Parkinson’s Disease Diagnostics](https://ieeexplore.ieee.org/abstract/document/10178828)**  
+   **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Kadri Medijainen, Pille Taba, Aaro Toomela, Sven Nõmm, Michael Ruzhansky  
+   *36th International Symposium on Computer-Based Medical Systems (CBMS)*, 2023  
+   [[DOI](https://ieeexplore.ieee.org/abstract/document/10178828)] [[arXiv](https://arxiv.org/abs/2302.00973)]
+
+### **Book Chapters**
+
 6. **[An Efficient Neural Network for Parkinson’s Disease Using Dynamic Handwriting Analysis](https://link.springer.com/chapter/10.1007/978-3-031-41665-1_11)**  
    **Xuechao Wang**, Sven Nõmm, Junqing Huang, Marianna Chatzakou, Michael Ruzhansky  
-   *In: Lecture Notes in Computer Science (LNCS)*, 2023  
+   *Extended Abstracts MWCAPDE 2023*, 2024  
    [[DOI](https://link.springer.com/chapter/10.1007/978-3-031-41665-1_11)]
 
 7. **[Text Matching as Time Series Matching](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_32)**  
    **Xuechao Wang**  
-   *In: Lecture Notes in Computer Science (LNCS)*, 2023  
+   *Extended Abstracts 2021/2022*, 2024  
    [[DOI](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_32)]
 
 8. **[Performing Particle Image Segmentation on an Extremely Small Dataset](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_33)**  
    Marianna Chatzakou, Junqing Huang, Bogdan V. Parakhonskiy, Michael Ruzhansky, Andre G. Skirtach, Junnan Song, **Xuechao Wang**  
-   *In: Lecture Notes in Computer Science (LNCS)*, 2023  
+   *Extended Abstracts 2021/2022*, 2024  
    [[DOI](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_33)]
 
 ---
