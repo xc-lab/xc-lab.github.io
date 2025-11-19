@@ -95,13 +95,13 @@ My research interests include computer vision, healthcare, explainable AI, and d
 ---
 
 - **Parkinson’s Disease Diagnosis**  
-  This project uses deep learning to analyze dynamic handwriting signals, enabling early detection of Parkinson’s disease and delivering diagnostic results that are interpretable for clinical use.
+  This project develops a deep learning framework that analyzes dynamic handwriting signals to enable early detection of Parkinson’s disease and deliver clinically interpretable diagnostic explanations.
 
 - **Microscopic Particle Segmentation**  
-  This project develops a SAM-based, fine-tuned foundational model tailored for microscopic particle images, enabling prompt-guided segmentation across arbitrary particle morphologies and providing a reliable basis for subsequent structural   characterization and quantitative analysis.
+  This project develops a SAM-based foundational model tailored for microscopic particle images, enabling prompt-guided segmentation across arbitrary particle morphologies and providing a reliable basis for downstream structural characterization and quantitative analysis.
 
-- **Prognostic prediction of salivary gland cancer**  
-  This project develops a prognosis prediction model for salivary gland cancer using clinical features and follow-up information, enabling quantitative assessment of patient survival risk and providing data-driven support for clinical follow-up and individualized management.
+- **Prognosis Prediction for Salivary Gland Cancer**  
+  This project develops a prognosis prediction model using clinical features and follow-up information, enabling quantitative assessment of patient survival risk and providing data-driven support for clinical follow-up and individualized management.
 
 - **Alloy Powder Impurity Detection**  
   This project applies deep learning to identify impurities in alloy powders, enabling purity assessment and improving the reliability of subsequent material processing.
@@ -111,6 +111,7 @@ My research interests include computer vision, healthcare, explainable AI, and d
 
 - **Time Series Forecasting Model for Prelaunch Book Sales**  
   This project develops a time series forecasting model that combines historical sales trends of similar books with the seasonal patterns of prelaunch titles to predict sales over the next two years. The forecasting software has been successfully deployed by several Chinese publishing companies.
+
 
 ---
 
