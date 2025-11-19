@@ -94,23 +94,23 @@ My research interests include computer vision, healthcare, explainable AI, and d
 ## 🧪 Projects
 ---
 
-- **PointExplainer: Interpretable Deep Learning for Parkinson’s Disease Diagnosis**  
-  Developed a transparent diagnostic framework combining multimodal handwriting signals with feature-level explainability and saliency-guided interpretation. Includes model explanation, clinical validation, and uncertainty quantification.
+- **Parkinson’s Disease Diagnosis**  
+  This project uses deep learning to analyze dynamic handwriting signals, enabling early detection of Parkinson’s disease and delivering diagnostic results that are interpretable for clinical use.
 
-- **Amodal Segmentation Framework Based on SAM + VAE**  
-  Designed a two-stage amodal segmentation pipeline integrating Segment Anything (SAM), LoRA fine-tuning, and a reconstruction-based VAE module for completing occluded object shapes in microscopy images.
+- **Microscopic Particle Segmentation**  
+  This project develops a SAM-based, fine-tuned foundational model tailored for microscopic particle images, enabling prompt-guided segmentation across arbitrary particle morphologies and providing a reliable basis for subsequent structural   characterization and quantitative analysis.
 
-- **Microscopic Particle Segmentation and Analysis (PartiSAM & PartiSet)**  
-  Led the construction of a particle segmentation system for materials/biomedical research. Built a multi-domain dataset (PartiSet), implemented data synthesis, amodal completion, impurity detection, and SAM-based fine-tuning.
+- **Prognostic prediction of salivary gland cancer**  
+  This project develops a prognosis prediction model for salivary gland cancer using clinical features and follow-up information, enabling quantitative assessment of patient survival risk and providing data-driven support for clinical follow-up and individualized management.
 
-- **Alloy Powder Impurity Detection via Deep Learning**  
-  Developed a detection pipeline for industrial alloy powders, combining segmentation, morphology analysis, and impurity classification with extremely small sample sizes.
+- **Alloy Powder Impurity Detection**  
+  This project applies deep learning to identify impurities in alloy powders, enabling purity assessment and improving the reliability of subsequent material processing.
 
-- **Cancer Prognosis Prediction (Salivary Gland Tumors)**  
-  Built predictive models integrating clinical variables and deep survival learning (RSF, CoxPH, SSVM) to support oncological decision-making.
+- **Text Matching Model for Book Retrieval**  
+  This project develops a text matching system combining BM25-based recall and RAM-CNN ranking to achieve efficient and accurate book retrieval, with support for offline database updates and real-time online search.
 
-- **Dynamic Handwriting Analysis for Parkinson’s Disease**  
-  Developed lightweight 1D/2D/3D CNN and LSTM-CNN pipelines for dynamic pen-trajectory data, achieving state-of-the-art accuracy on PD diagnosis.
+- **Time Series Forecasting Model for Prelaunch Book Sales**  
+  This project develops a time series forecasting model that combines historical sales trends of similar books with the seasonal patterns of prelaunch titles to predict sales over the next two years. The forecasting software has been successfully deployed by several Chinese publishing companies.
 
 ---
 
