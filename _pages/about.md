@@ -38,7 +38,7 @@ Email: xuechao.wang@ugent.be
 3. **[LSTM-CNN: An Efficient Diagnostic Network for Parkinson's Disease Utilizing Dynamic Handwriting Analysis](https://www.sciencedirect.com/science/article/pii/S0169260724000622)**  
    **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Kadri Medijainen, Aaro Toomela, Sven Nõmm, Michael Ruzhansky  
    [[DOI](https://www.sciencedirect.com/science/article/pii/S0169260724000622)] [[arXiv](https://arxiv.org/abs/2311.11756)]
-5. **[Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease](https://www.sciencedirect.com/science/article/pii/S1746809423008698)**
+5. **[Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease](https://www.sciencedirect.com/science/article/pii/S1746809423008698)**  
    **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Sven Nõmm, Elli Valla, Kadri Medijainen, Pille Taba, Aaro Toomela, Michael Ruzhansky
    [[DOI](https://www.sciencedirect.com/science/article/pii/S1746809423008698)] [[arXiv](https://arxiv.org/abs/2309.14288)]
 7. **A Lightweight CNN Model for Efficient Parkinson's Disease Diagnostics**
