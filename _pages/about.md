@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Xuechao Wang (王学超)"
 author_profile: true
 redirect_from: 
   - /about/
