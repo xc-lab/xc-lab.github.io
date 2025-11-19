@@ -10,7 +10,7 @@ I am a PhD student at the [Department of Mathematics: Analysis, Logic, and Discr
 
 Email: xuechao.wang@ugent.be
 
-[Wechat](/images/wechat.jpg) / [Blog](https://blog.csdn.net/weixin_45422462)
+[Wechat](/images/wechat.jpg) / [Blog](https://blog.csdn.net/weixin_45422462) / [CV](/assets/cv_xuechao.pdf)
 
 
 ## 📖 Education
