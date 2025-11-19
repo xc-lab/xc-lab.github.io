@@ -41,10 +41,12 @@ Email: xuechao.wang@ugent.be
 5. **[Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease](https://www.sciencedirect.com/science/article/pii/S1746809423008698)**  
    **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Sven Nõmm, Elli Valla, Kadri Medijainen, Pille Taba, Aaro Toomela, Michael Ruzhansky  
    [[DOI](https://www.sciencedirect.com/science/article/pii/S1746809423008698)] [[arXiv](https://arxiv.org/abs/2309.14288)]
-7. **A Lightweight CNN Model for Efficient Parkinson's Disease Diagnostics**
-8. **Semi-Sparsity for Smoothing Filters**
-9. **An Efficient Neural Network for the Diagnosis of Parkinson’s Disease Using Dynamic Handwriting Analysis**
-10. **Text Matching as Time Series Matching**
-11. **Performing Particle Image Segmentation on an Extremely Small Dataset**
+7. **[A Lightweight CNN Model for Efficient Parkinson's Disease Diagnostics](https://ieeexplore.ieee.org/abstract/document/10178828)**  
+   **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Kadri Medijainen, Pille Taba, Aaro Toomela, Sven Nõmm, Michael Ruzhansky  
+   [[DOI](https://ieeexplore.ieee.org/abstract/document/10178828)] [[arXiv](https://arxiv.org/abs/2302.00973)]
+9. **Semi-Sparsity for Smoothing Filters**
+10. **An Efficient Neural Network for the Diagnosis of Parkinson’s Disease Using Dynamic Handwriting Analysis**
+11. **Text Matching as Time Series Matching**
+12. **Performing Particle Image Segmentation on an Extremely Small Dataset**
 
 
