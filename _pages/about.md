@@ -58,7 +58,7 @@ Email: xuechao.wang@ugent.be
     [[DOI](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_33)]  
 
 
-## 📖 Education
+## 📖 Educations
 ---
 - **Ph.D. in Computer Science**  
   Department of Mathematics: Analysis, Logic, and Discrete Mathematics, Ghent University, Ghent, Belgium  
