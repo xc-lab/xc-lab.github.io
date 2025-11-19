@@ -13,144 +13,144 @@ redirect_from:
 
 Email: xuechao.wang@ugent.be  
 ORCID: [0009-0002-3067-1465](https://orcid.org/0009-0002-3067-1465)  
-Google Scholar: [https://scholar.google.com/citations?user=OrhKxR0AAAAJ](https://scholar.google.com/citations?user=OrhKxR0AAAAJ)  
+Google Scholar: [https://scholar.google.com/citations?user=OrhKxR0AAAAJ](https://scholar.google.com/citations?user=OrhKxR0AAAAJ)
 
-I am a PhD student at the [Department of Mathematics: Analysis, Logic, and Discrete Mathematics](https://cage.ugent.be/we16/index.en.html), Ghent University. I am supervised by [Prof. Michael Ruzhansky](https://ruzhansky.org/) and [Prof. Sven Nõmm](https://www.etis.ee/CV/Sven_N%C3%B5mm/eng/).
-
+I am a PhD student at the [Department of Mathematics: Analysis, Logic, and Discrete Mathematics](https://cage.ugent.be/we16/index.en.html), Ghent University, supervised by [Prof. Michael Ruzhansky](https://ruzhansky.org/) and [Prof. Sven Nõmm](https://www.etis.ee/CV/Sven_N%C3%B5mm/eng/).  
 My research interests include computer vision, healthcare, explainable AI, and deep learning.
 
 ---
 
-## 📖 Education
+# **EDUCATION**
 
-- **Ph.D. in Computer Science**  
-  Department of Mathematics: Analysis, Logic, and Discrete Mathematics, Ghent University, Ghent, Belgium  
-  *2021.09 – present*  
-  **Supervisors:** Prof. Michael Ruzhansky, Prof. Sven Nõmm  
+**Ph.D. in Computer Science**  
+<span style="float:right">2021.09 – present</span>  
+Department of Mathematics: Analysis, Logic, and Discrete Mathematics, Ghent University, Belgium  
+**Supervisors:** Prof. Michael Ruzhansky, Prof. Sven Nõmm  
 
-- **M.Sc. in Applied Mathematics**  
-  School of Mathematics and Physics, Beihang University (BUAA), Beijing, China  
-  *2018.09 – 2021.01*  
-  **Supervisor:** Prof. Haihui Wang  
+**M.Sc. in Applied Mathematics**  
+<span style="float:right">2018.09 – 2021.01</span>  
+School of Mathematics and Physics, Beihang University (BUAA), Beijing, China  
+**Supervisor:** Prof. Haihui Wang  
 
-- **B.Sc. in Mathematics**  
-  School of Mathematics and Statistics, Shandong Normal University, Jinan, China  
-  *2014.09 – 2018.09*
-
-
+**B.Sc. in Mathematics**  
+<span style="float:right">2014.09 – 2018.09</span>  
+School of Mathematics and Statistics, Shandong Normal University, Jinan, China  
 
 ---
-## 📚 Publications
 
-### **Preprints (arXiv)**
+# **PUBLICATIONS**
 
-1. **[PointExplainer: Towards Transparent Parkinson's Disease Diagnosis](https://arxiv.org/abs/2505.03833)**  
+### *Preprints (arXiv)*
+
+1. **PointExplainer: Towards Transparent Parkinson's Disease Diagnosis**  
    **Xuechao Wang**, Sven Nõmm, Junqing Huang, Kadri Medijainen, Aaro Toomela, Michael Ruzhansky  
-   🔄 *Under Review*  
+   *Under Review*  
+   [[arXiv](https://arxiv.org/abs/2505.03833)]
 
-### **Journal Articles**
+### *Journal Articles*
 
-2. **[LSTM-CNN: An Efficient Diagnostic Network for Parkinson’s Disease Utilizing Dynamic Handwriting Analysis](https://www.sciencedirect.com/science/article/pii/S0169260724000622)**  
+2. **LSTM-CNN: An Efficient Diagnostic Network for Parkinson’s Disease Utilizing Dynamic Handwriting Analysis**  
    **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Kadri Medijainen, Aaro Toomela, Sven Nõmm, Michael Ruzhansky  
    *Computer Methods and Programs in Biomedicine*, 2024  
    [[DOI](https://www.sciencedirect.com/science/article/pii/S0169260724000622)] [[arXiv](https://arxiv.org/abs/2311.11756)]
 
-3. **[Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease](https://www.sciencedirect.com/science/article/pii/S1746809423008698)**  
+3. **Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease**  
    **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Sven Nõmm, Elli Valla, Kadri Medijainen, Pille Taba, Aaro Toomela, Michael Ruzhansky  
    *Biomedical Signal Processing and Control*, 2023  
    [[DOI](https://www.sciencedirect.com/science/article/pii/S1746809423008698)] [[arXiv](https://arxiv.org/abs/2309.14288)]
 
-4. **[Semi-Sparsity for Smoothing Filters](https://ieeexplore.ieee.org/abstract/document/10054601)**  
+4. **Semi-Sparsity for Smoothing Filters**  
    Junqing Huang, Haihui Wang, **Xuechao Wang**, Michael Ruzhansky  
    *IEEE Transactions on Image Processing*, 2023  
    [[DOI](https://ieeexplore.ieee.org/abstract/document/10054601)] [[arXiv](https://arxiv.org/abs/2107.00627)]
 
-### **Conference Papers**
+### *Conference Papers*
 
-5. **[A Lightweight CNN Model for Efficient Parkinson’s Disease Diagnostics](https://ieeexplore.ieee.org/abstract/document/10178828)**  
+5. **A Lightweight CNN Model for Efficient Parkinson’s Disease Diagnostics**  
    **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Kadri Medijainen, Pille Taba, Aaro Toomela, Sven Nõmm, Michael Ruzhansky  
    *36th International Symposium on Computer-Based Medical Systems (CBMS)*, 2023  
    [[DOI](https://ieeexplore.ieee.org/abstract/document/10178828)] [[arXiv](https://arxiv.org/abs/2302.00973)]
 
-### **Book Chapters**
+### *Book Chapters*
 
-6. **[An Efficient Neural Network for Parkinson’s Disease Using Dynamic Handwriting Analysis](https://link.springer.com/chapter/10.1007/978-3-031-41665-1_11)**  
+6. **An Efficient Neural Network for Parkinson’s Disease Using Dynamic Handwriting Analysis**  
    **Xuechao Wang**, Sven Nõmm, Junqing Huang, Marianna Chatzakou, Michael Ruzhansky  
    *Extended Abstracts MWCAPDE 2023*, 2024  
    [[DOI](https://link.springer.com/chapter/10.1007/978-3-031-41665-1_11)]
 
-7. **[Text Matching as Time Series Matching](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_32)**  
+7. **Text Matching as Time Series Matching**  
    **Xuechao Wang**  
    *Extended Abstracts 2021/2022*, 2024  
    [[DOI](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_32)]
 
-8. **[Performing Particle Image Segmentation on an Extremely Small Dataset](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_33)**  
+8. **Performing Particle Image Segmentation on an Extremely Small Dataset**  
    Marianna Chatzakou, Junqing Huang, Bogdan V. Parakhonskiy, Michael Ruzhansky, Andre G. Skirtach, Junnan Song, **Xuechao Wang**  
    *Extended Abstracts 2021/2022*, 2024  
    [[DOI](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_33)]
 
+---
+
+# **TALKS & PRESENTATIONS**
+
+**36th International Symposium on Computer-Based Medical Systems (CBMS)**  
+L’Aquila, Italy  
+*TCCLS Best Student Paper Award*  
+<span style="float:right">2023</span>
 
 ---
-## 🎤 Talks & Presentations
 
-- **36th International Symposium on Computer-Based Medical Systems (CBMS) 2023**, L’Aquila, Italy  
-  *TCCLS Best Student Paper Award*
+# **PROJECTS**
 
+**Parkinson’s Disease Diagnosis**  
+Deep learning analysis of dynamic handwriting signals for early PD detection with clinically interpretable explanations.
 
----
-## 🧪 Projects
+**Microscopic Particle Segmentation**  
+SAM-based foundational model for prompt-guided segmentation across arbitrary microscopic particle morphologies.
 
-- **Parkinson’s Disease Diagnosis**  
-  This project develops a deep learning framework that analyzes dynamic handwriting signals to enable early detection of Parkinson’s disease and deliver clinically interpretable diagnostic explanations.
+**Prognosis Prediction for Salivary Gland Cancer**  
+Modeling survival risk using clinical and follow-up data, supporting individualized patient management.
 
-- **Microscopic Particle Segmentation**  
-  This project develops a SAM-based foundational model tailored for microscopic particle images, enabling prompt-guided segmentation across arbitrary particle morphologies and providing a reliable basis for downstream structural characterization and quantitative analysis.
+**Alloy Powder Impurity Detection**  
+Deep learning for impurity identification in alloy powders to support high-reliability material processing.
 
-- **Prognosis Prediction for Salivary Gland Cancer**  
-  This project develops a prognosis prediction model using clinical features and follow-up information, enabling quantitative assessment of patient survival risk and providing data-driven support for clinical follow-up and individualized management.
+**Text Matching Model for Book Retrieval**  
+BM25 recall + RAM-CNN ranking for efficient text-based book retrieval with real-time search support.
 
-- **Alloy Powder Impurity Detection**  
-  This project applies deep learning to identify impurities in alloy powders, enabling purity assessment and improving the reliability of subsequent material processing.
-
-- **Text Matching Model for Book Retrieval**  
-  This project develops a text matching system combining BM25-based recall and RAM-CNN ranking to achieve efficient and accurate book retrieval, with support for offline database updates and real-time online search.
-
-- **Time Series Forecasting Model for Prelaunch Book Sales**  
-  This project develops a time series forecasting model that combines historical sales trends of similar books with the seasonal patterns of prelaunch titles to predict sales over the next two years. The forecasting software has been successfully deployed by several Chinese publishing companies.
-
+**Time Series Forecasting for Prelaunch Book Sales**  
+Forecasting framework combining historical and seasonal trends; deployed in multiple Chinese publishing companies.
 
 ---
-## 🔬 Patents
 
-- *A Machine Learning–Based Method and System for Prognostic Survival Stage Prediction*. Chinese Invention Patent, Publication No. CN114496306A, 2022.
+# **PATENTS**
 
-
-
----
-## 🧑‍🏫 Teaching & Mentoring
-
-- **Teaching Assistant**  
-  *Higher Mathematics in Liberal Arts*, Beihang University, 2020  
-
-- **Mentor**  
-  Undergraduate Innovation & Entrepreneurship Program, Beihang University, 2020  
-
-
+*A Machine Learning–Based Method and System for Prognostic Survival Stage Prediction*.  
+Chinese Invention Patent, Publication No. **CN114496306A**, 2022.
 
 ---
-## 🏆 Awards & Honors
 
-- **TCCLS Best Student Paper Award**, IEEE CBMS 2023, L’Aquila, Italy  
-- **First Class Scholarship**, Haihui Data Analysis Laboratory, Beihang University, China (2020)  
-- **Second Class Scholarship**, Beihang University, China (2020)  
-- **Second Class Scholarship**, Haihui Data Analysis Laboratory, Beihang University, China (2019)  
-- **Second Class Scholarship**, Beihang University, China (2019)  
-- **First Class Scholarship**, Shandong Normal University, China (2015)
+# **TEACHING & MENTORING**
 
+**Teaching Assistant**  
+*Higher Mathematics in Liberal Arts*, Beihang University  
+<span style="float:right">2020</span>
+
+**Mentor**  
+Undergraduate Innovation & Entrepreneurship Program, Beihang University  
+<span style="float:right">2020</span>
 
 ---
-## 🛠 Technical Skills
 
-- **Tools:** Python, PyTorch, PyQt, Linux, Slurm HPC
+# **AWARDS & HONORS**
 
- 
+- **TCCLS Best Student Paper Award**, IEEE CBMS 2023  
+- **First Class Scholarship**, Haihui Data Analysis Laboratory, BUAA (2020)  
+- **Second Class Scholarship**, BUAA (2020)  
+- **Second Class Scholarship**, Haihui Lab, BUAA (2019)  
+- **Second Class Scholarship**, BUAA (2019)  
+- **First Class Scholarship**, Shandong Normal University (2015)
+
+---
+
+# **TECHNICAL SKILLS**
+
+**Tools:** Python, PyTorch, PyQt, Linux, Slurm HPC
