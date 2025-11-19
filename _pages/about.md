@@ -12,27 +12,32 @@ Email: xuechao.wang@ugent.be
 
 [Wechat](/images/wechat.jpg) / [Blog](https://blog.csdn.net/weixin_45422462)
 
-<i class="fas fa-search"></i> **Research Interests**
-------
-1. Image segmentation
-- Amodal segmentation
-- Interactive segmentation
-1. Explainable AI
-- Model interpretation
-1. AI for Science and Healthcare
-- Parkinson’s disease diagnosis
-- Microscopic particle segmentation
-- Alloy powder impurity detection
-- Prognosis prediction for salivary gland cancer
-  
+## <i class="fas fa-search"></i> Research Interests
+---
 
-<i class="far fa-file-alt"></i>**Publications**
-------
-1. PointExplainer: Towards Transparent Parkinson's Disease Diagnosis
-1. LSTM-CNN: An efficient diagnostic network for Parkinson's disease utilizing dynamic handwriting analysis
-1. Comparison of one- two- and three-dimensional CNN models for drawing-test-based diagnostics of the Parkinson’s disease
-1. A Light-weight CNN Model for Efficient Parkinson's Disease Diagnostics
-1. Semi-Sparsity for Smoothing Filters
-1. An Efficient Neural Network for the Diagnosis of Parkinson’s Disease Using Dynamic Handwriting Analysis  
-1. Text Matching as Time Series Matching
-1. Performing Particle Image Segmentation on an Extremely Small Dataset
+- **Image Segmentation**
+  - Amodal segmentation
+  - Interactive segmentation
+
+- **Explainable AI**
+  - Model interpretation
+
+- **AI for Science and Healthcare**
+  - Parkinson’s disease diagnosis
+  - Microscopic particle segmentation
+  - Alloy powder impurity detection
+  - Prognosis prediction for salivary gland cancer
+
+
+## <i class="far fa-file-alt"></i> Publications
+---
+
+1. **PointExplainer: Towards Transparent Parkinson's Disease Diagnosis**
+2. **LSTM-CNN: An Efficient Diagnostic Network for Parkinson's Disease Utilizing Dynamic Handwriting Analysis**
+3. **Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease**
+4. **A Lightweight CNN Model for Efficient Parkinson's Disease Diagnostics**
+5. **Semi-Sparsity for Smoothing Filters**
+6. **An Efficient Neural Network for the Diagnosis of Parkinson’s Disease Using Dynamic Handwriting Analysis**
+7. **Text Matching as Time Series Matching**
+8. **Performing Particle Image Segmentation on an Extremely Small Dataset**
+
