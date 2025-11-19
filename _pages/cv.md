@@ -30,7 +30,7 @@ My research interests include computer vision, healthcare, explainable AI, and d
 
 - **M.Sc. in Applied Mathematics**  
   School of Mathematics and Physics, Beihang University (BUAA), Beijing, China  
-  *2018.09 – 2021.01*
+  *2018.09 – 2021.01*  
   **Supervisor:** Prof. Haihui Wang  
 
 - **B.Sc. in Mathematics**  
@@ -91,6 +91,29 @@ My research interests include computer vision, healthcare, explainable AI, and d
 
 ---
 
+## 🧪 Projects
+---
+
+- **PointExplainer: Interpretable Deep Learning for Parkinson’s Disease Diagnosis**  
+  Developed a transparent diagnostic framework combining multimodal handwriting signals with feature-level explainability and saliency-guided interpretation. Includes model explanation, clinical validation, and uncertainty quantification.
+
+- **Amodal Segmentation Framework Based on SAM + VAE**  
+  Designed a two-stage amodal segmentation pipeline integrating Segment Anything (SAM), LoRA fine-tuning, and a reconstruction-based VAE module for completing occluded object shapes in microscopy images.
+
+- **Microscopic Particle Segmentation and Analysis (PartiSAM & PartiSet)**  
+  Led the construction of a particle segmentation system for materials/biomedical research. Built a multi-domain dataset (PartiSet), implemented data synthesis, amodal completion, impurity detection, and SAM-based fine-tuning.
+
+- **Alloy Powder Impurity Detection via Deep Learning**  
+  Developed a detection pipeline for industrial alloy powders, combining segmentation, morphology analysis, and impurity classification with extremely small sample sizes.
+
+- **Cancer Prognosis Prediction (Salivary Gland Tumors)**  
+  Built predictive models integrating clinical variables and deep survival learning (RSF, CoxPH, SSVM) to support oncological decision-making.
+
+- **Dynamic Handwriting Analysis for Parkinson’s Disease**  
+  Developed lightweight 1D/2D/3D CNN and LSTM-CNN pipelines for dynamic pen-trajectory data, achieving state-of-the-art accuracy on PD diagnosis.
+
+---
+
 ## 🧑‍🏫 Teaching & Mentoring
 
 - **Teaching Assistant**  
@@ -99,7 +122,6 @@ My research interests include computer vision, healthcare, explainable AI, and d
 - **Mentor**  
   Undergraduate Innovation & Entrepreneurship Program, Beihang University, 2020  
 
-- Supervision of undergraduate research projects in computer vision & AI  
 
 ---
 
