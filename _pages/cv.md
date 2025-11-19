@@ -39,9 +39,9 @@ My research interests include computer vision, healthcare, explainable AI, and d
 
 
 
-
-## 📚 Publications
 ---
+## 📚 Publications
+
 ### **Preprints (arXiv)**
 
 1. **[PointExplainer: Towards Transparent Parkinson's Disease Diagnosis](https://arxiv.org/abs/2505.03833)**  
@@ -90,14 +90,15 @@ My research interests include computer vision, healthcare, explainable AI, and d
    [[DOI](https://link.springer.com/chapter/10.1007/978-3-031-42539-4_33)]
 
 
-## 🎤 Talks & Presentations
 ---
-- **CBMS 2023**, L’Aquila, Italy  
+## 🎤 Talks & Presentations
+
+- **36th International Symposium on Computer-Based Medical Systems (CBMS) 2023**, L’Aquila, Italy  
   *TCCLS Best Student Paper Award*
 
 
-## 🧪 Projects
 ---
+## 🧪 Projects
 
 - **Parkinson’s Disease Diagnosis**  
   This project develops a deep learning framework that analyzes dynamic handwriting signals to enable early detection of Parkinson’s disease and deliver clinically interpretable diagnostic explanations.
@@ -118,16 +119,16 @@ My research interests include computer vision, healthcare, explainable AI, and d
   This project develops a time series forecasting model that combines historical sales trends of similar books with the seasonal patterns of prelaunch titles to predict sales over the next two years. The forecasting software has been successfully deployed by several Chinese publishing companies.
 
 
-
-## 🔬 Patents
 ---
+## 🔬 Patents
+
 - *A Machine Learning–Based Method and System for Prognostic Survival Stage Prediction*. Chinese Invention Patent, Publication No. CN114496306A, 2022.
 
 
 
-
-## 🧑‍🏫 Teaching & Mentoring
 ---
+## 🧑‍🏫 Teaching & Mentoring
+
 - **Teaching Assistant**  
   *Higher Mathematics in Liberal Arts*, Beihang University, 2020  
 
@@ -136,9 +137,9 @@ My research interests include computer vision, healthcare, explainable AI, and d
 
 
 
-
-## 🏆 Awards & Honors
 ---
+## 🏆 Awards & Honors
+
 - **TCCLS Best Student Paper Award**, IEEE CBMS 2023, L’Aquila, Italy  
 - **First Class Scholarship**, Haihui Data Analysis Laboratory, Beihang University, China (2020)  
 - **Second Class Scholarship**, Beihang University, China (2020)  
@@ -148,10 +149,8 @@ My research interests include computer vision, healthcare, explainable AI, and d
 
 
 ---
-
 ## 🛠 Technical Skills
 
-- **Programming:** Python, PyTorch, PyQt,   
-- **Tools:** Git, Linux, Slurm HPC
+- **Tools:** Python, PyTorch, PyQt, Linux, Slurm HPC
 
  
