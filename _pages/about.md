@@ -34,13 +34,15 @@ Email: xuechao.wang@ugent.be
 
 1. **[PointExplainer: Towards Transparent Parkinson's Disease Diagnosis](https://arxiv.org/abs/2505.03833)**  
    **Xuechao Wang**, Sven Nõmm, Junqing Huang, Kadri Medijainen, Aaro Toomela, Michael Ruzhansky  
-   [[Under Review](https://arxiv.org/abs/2505.03833)]
+   [[arXiv](https://arxiv.org/abs/2505.03833)]
 3. **LSTM-CNN: An Efficient Diagnostic Network for Parkinson's Disease Utilizing Dynamic Handwriting Analysis**
-4. **Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease**
-5. **A Lightweight CNN Model for Efficient Parkinson's Disease Diagnostics**
-6. **Semi-Sparsity for Smoothing Filters**
-7. **An Efficient Neural Network for the Diagnosis of Parkinson’s Disease Using Dynamic Handwriting Analysis**
-8. **Text Matching as Time Series Matching**
-9. **Performing Particle Image Segmentation on an Extremely Small Dataset**
+   **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Kadri Medijainen, Aaro Toomela, Sven Nõmm, Michael Ruzhansky  
+   [[DOI](https://www.sciencedirect.com/science/article/pii/S0169260724000622)] [[arXiv](https://arxiv.org/abs/2311.11756)]
+5. **Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease**
+6. **A Lightweight CNN Model for Efficient Parkinson's Disease Diagnostics**
+7. **Semi-Sparsity for Smoothing Filters**
+8. **An Efficient Neural Network for the Diagnosis of Parkinson’s Disease Using Dynamic Handwriting Analysis**
+9. **Text Matching as Time Series Matching**
+10. **Performing Particle Image Segmentation on an Extremely Small Dataset**
 
 
