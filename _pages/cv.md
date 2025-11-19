@@ -126,7 +126,7 @@ Chinese Invention Patent, Publication No. **CN114496306A**, 2022.
 
 ---
 
-# **TEACHING & MENTORING**
+# **TEACHING**
 
 **Teaching Assistant**  
 *Higher Mathematics in Liberal Arts*, Beihang University  
@@ -138,7 +138,7 @@ Undergraduate Innovation & Entrepreneurship Program, Beihang University
 
 ---
 
-# **AWARDS & HONORS**
+# **AWARDS**
  
 - **COVID-19 Extension Funding**, Ghent University, 2025  
 - **TCCLS Best Student Paper Award**, IEEE CBMS, 2023
