@@ -15,14 +15,14 @@ Email: xuechao.wang@ugent.be
 ## 🔍 Research Interests
 ---
 
-- **Image Segmentation**
+- Image Segmentation
   - Amodal segmentation
   - Interactive segmentation
 
-- **Explainable AI**
+- Explainable AI
   - Model interpretation
 
-- **AI for Science and Healthcare**
+- AI for Science and Healthcare
   - Parkinson’s disease diagnosis
   - Microscopic particle segmentation
   - Alloy powder impurity detection
