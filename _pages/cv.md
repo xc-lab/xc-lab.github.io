@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# **Xuechao Wang (王学超)**
-
+Name: Xuechao Wang
 Email: xuechao.wang@ugent.be  
 Url: [https://xc-lab.github.io/](https://xc-lab.github.io/)
 
