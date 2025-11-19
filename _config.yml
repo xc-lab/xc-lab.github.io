@@ -83,10 +83,10 @@ author:
 publication_category:
   manuscripts:
     title: 'Journal Articles'  
-  arXiv preprints:
-    title: 'Arxiv Preprints'
   conferences:
     title: 'Conference Papers'
+  arXiv preprints:
+    title: 'Arxiv Preprints'
   book chapters:
     title: 'Book Chapters'
   
