@@ -12,7 +12,7 @@ Email: xuechao.wang@ugent.be
 
 [Wechat](/images/wechat.jpg) / [Blog](https://blog.csdn.net/weixin_45422462)
 
-## <i class="fas fa-search"></i> Research Interests
+## 🔍 Research Interests
 ---
 
 - **Image Segmentation**
@@ -29,7 +29,7 @@ Email: xuechao.wang@ugent.be
   - Prognosis prediction for salivary gland cancer
 
 
-## <i class="far fa-file-alt"></i> Publications
+## 📄 Publications
 ---
 
 1. **PointExplainer: Towards Transparent Parkinson's Disease Diagnosis**
@@ -40,4 +40,5 @@ Email: xuechao.wang@ugent.be
 6. **An Efficient Neural Network for the Diagnosis of Parkinson’s Disease Using Dynamic Handwriting Analysis**
 7. **Text Matching as Time Series Matching**
 8. **Performing Particle Image Segmentation on an Extremely Small Dataset**
+
 
