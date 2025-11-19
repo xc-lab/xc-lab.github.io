@@ -32,7 +32,7 @@ Email: xuechao.wang@ugent.be
 ## 📄 Publications
 ---
 
-1. **PointExplainer: Towards Transparent Parkinson's Disease Diagnosis**
+1. **PointExplainer: Towards Transparent Parkinson's Disease Diagnosis** [Under Review](https://arxiv.org/abs/2505.03833)
 2. **LSTM-CNN: An Efficient Diagnostic Network for Parkinson's Disease Utilizing Dynamic Handwriting Analysis**
 3. **Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease**
 4. **A Lightweight CNN Model for Efficient Parkinson's Disease Diagnostics**
