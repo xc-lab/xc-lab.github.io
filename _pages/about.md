@@ -12,22 +12,6 @@ Email: xuechao.wang@ugent.be
 
 [Wechat](/images/wechat.jpg) / [Blog](https://blog.csdn.net/weixin_45422462)
 
-## 🔍 Research Interests
----
-
-- Image Segmentation
-  - Amodal segmentation
-  - Interactive segmentation
-
-- Explainable AI
-  - Model interpretation
-
-- AI for Science and Healthcare
-  - Parkinson’s disease diagnosis
-  - Microscopic particle segmentation
-  - Alloy powder impurity detection
-  - Prognosis prediction for salivary gland cancer
-
 
 ## 📄 Publications
 ---
