@@ -44,9 +44,11 @@ Email: xuechao.wang@ugent.be
 7. **[A Lightweight CNN Model for Efficient Parkinson's Disease Diagnostics](https://ieeexplore.ieee.org/abstract/document/10178828)**  
    **Xuechao Wang**, Junqing Huang, Marianna Chatzakou, Kadri Medijainen, Pille Taba, Aaro Toomela, Sven Nõmm, Michael Ruzhansky  
    [[DOI](https://ieeexplore.ieee.org/abstract/document/10178828)] [[arXiv](https://arxiv.org/abs/2302.00973)]
-9. **Semi-Sparsity for Smoothing Filters**
-10. **An Efficient Neural Network for the Diagnosis of Parkinson’s Disease Using Dynamic Handwriting Analysis**
-11. **Text Matching as Time Series Matching**
-12. **Performing Particle Image Segmentation on an Extremely Small Dataset**
+9. [Semi-Sparsity for Smoothing Filters](https://ieeexplore.ieee.org/abstract/document/10054601)  
+   Junqing Huang, Haihui Wang, **Xuechao Wang**, Michael Ruzhansky  
+   [[DOI](https://ieeexplore.ieee.org/abstract/document/10054601)] [[arXiv](https://arxiv.org/abs/2107.00627)]
+11. **An Efficient Neural Network for the Diagnosis of Parkinson’s Disease Using Dynamic Handwriting Analysis**
+12. **Text Matching as Time Series Matching**
+13. **Performing Particle Image Segmentation on an Extremely Small Dataset**
 
 
