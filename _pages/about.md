@@ -12,7 +12,7 @@ Email: xuechao.wang@ugent.be
 
 [Wechat](/images/wechat.jpg) / [Blog](https://blog.csdn.net/weixin_45422462)
 
-**Research Interests**
+<i class="fas fa-search"></i> **Research Interests**
 ------
 1. Image segmentation
 - Amodal segmentation
