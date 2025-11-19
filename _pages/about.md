@@ -26,7 +26,7 @@ Email: xuechao.wang@ugent.be
 - Prognosis prediction for salivary gland cancer
   
 
-**Publications**
+<i class="far fa-file-alt"></i>**Publications**
 ------
 1. PointExplainer: Towards Transparent Parkinson's Disease Diagnosis
 1. LSTM-CNN: An efficient diagnostic network for Parkinson's disease utilizing dynamic handwriting analysis
