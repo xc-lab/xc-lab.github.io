@@ -12,8 +12,7 @@ redirect_from:
 # **Xuechao Wang (王学超)**
 
 Email: xuechao.wang@ugent.be  
-ORCID: [0009-0002-3067-1465](https://orcid.org/0009-0002-3067-1465)  
-Google Scholar: [https://scholar.google.com/citations?user=OrhKxR0AAAAJ](https://scholar.google.com/citations?user=OrhKxR0AAAAJ)
+Url: [https://xc-lab.github.io/](https://xc-lab.github.io/)
 
 I am a PhD student at the [Department of Mathematics: Analysis, Logic, and Discrete Mathematics](https://cage.ugent.be/we16/index.en.html), Ghent University, supervised by [Prof. Michael Ruzhansky](https://ruzhansky.org/) and [Prof. Sven Nõmm](https://www.etis.ee/CV/Sven_N%C3%B5mm/eng/).  
 My research interests include computer vision, healthcare, explainable AI, and deep learning.
