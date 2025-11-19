@@ -82,13 +82,14 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'  
+  arXiv preprints:
+    title: 'Arxiv Preprints'
   conferences:
     title: 'Conference Papers'
   book chapters:
     title: 'Book Chapters'
-  arXiv preprints:
-    title: 'Arxiv Preprints'
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
