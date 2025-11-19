@@ -11,8 +11,8 @@ redirect_from:
 
 # **Xuechao Wang (王学超)**
 Email: xuechao.wang@ugent.be  
-ORCID: 0009-0002-3067-1465
-Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=OrhKxR0AAAAJ
+ORCID: 0009-0002-3067-1465  
+Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=OrhKxR0AAAAJ  
 Location: Ghent, Belgium  
 
 ---
