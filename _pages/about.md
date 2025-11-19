@@ -32,8 +32,8 @@ Email: xuechao.wang@ugent.be
 ## 📄 Publications
 ---
 
-1. **[PointExplainer: Towards Transparent Parkinson's Disease Diagnosis](https://arxiv.org/abs/2505.03833)**
-   Xuechao Wang, Sven Nõmm, Junqing Huang, Kadri Medijainen, Aaro Toomela, Michael Ruzhansky
+1. **[PointExplainer: Towards Transparent Parkinson's Disease Diagnosis](https://arxiv.org/abs/2505.03833)**  
+   Xuechao Wang, Sven Nõmm, Junqing Huang, Kadri Medijainen, Aaro Toomela, Michael Ruzhansky  
    [Under Review](https://arxiv.org/abs/2505.03833)
 3. **LSTM-CNN: An Efficient Diagnostic Network for Parkinson's Disease Utilizing Dynamic Handwriting Analysis**
 4. **Comparison of One-, Two-, and Three-Dimensional CNN Models for Drawing-Test-Based Diagnostics of Parkinson’s Disease**
