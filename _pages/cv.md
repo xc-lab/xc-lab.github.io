@@ -147,9 +147,3 @@ Undergraduate Innovation & Entrepreneurship Program, Beihang University
 - **Second Class Scholarship**, Haihui Lab, BUAA (2019)  
 - **Second Class Scholarship**, BUAA (2019)  
 - **First Class Scholarship**, Shandong Normal University (2015)
-
----
-
-# **TECHNICAL SKILLS**
-
-**Tools:** Python, PyTorch, PyQt, Linux, Slurm HPC
