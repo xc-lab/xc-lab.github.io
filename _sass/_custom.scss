@@ -9,6 +9,23 @@
   font-size: 0.9rem;
 }
 
+/* ---- 让 publications / talks / teaching 这类 archive 页面也用小一点的字号 ---- */
+
+/* archive 列表整体缩小字体 */
+.archive,
+.archive__item-body,
+.archive__item-excerpt {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+/* archive 里的段落和列表项字号统一 */
+.archive__item-body p,
+.archive__item-body li {
+  font-size: 0.9rem;
+}
+
+
 /* 正文区域超链接颜色：默认深蓝 */
 .page__content a {
   color: #191970;
