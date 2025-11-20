@@ -1,0 +1,11 @@
+/* 只缩小正文区域的字体，不影响侧边栏和导航栏 */
+.page__content {
+  font-size: 0.95rem;  /* 比默认略小，你可以改成 0.9rem 或 0.97rem 慢慢调 */
+  line-height: 1.6;    /* 行距稍微紧一点，但仍然舒服 */
+}
+
+/* 如果觉得列表文字也偏大，可以一起调（可选） */
+.page__content p,
+.page__content li {
+  font-size: 0.95rem;
+}
