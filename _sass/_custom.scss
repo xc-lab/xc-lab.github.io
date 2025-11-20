@@ -45,3 +45,27 @@
   color: #8B0000;
 }
 
+/* archive 页面里的超链接，也用同样配色 */
+.archive a,
+.archive__item-title a {
+  color: #191970;
+}
+
+.archive a:visited,
+.archive__item-title a:visited {
+  color: #191970;
+}
+
+.archive a:hover,
+.archive__item-title a:hover {
+  color: #8B0000;
+}
+
+.archive a:active,
+.archive__item-title a:active {
+  color: #8B0000;
+}
+
+
+
+
