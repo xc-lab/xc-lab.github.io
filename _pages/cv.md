@@ -142,7 +142,7 @@ Undergraduate Innovation & Entrepreneurship Program, Beihang University
  
 - **COVID-19 Extension Funding**, Ghent University, 2025  
 - **TCCLS Best Student Paper Award**, IEEE CBMS, 2023
-- **Full PhD Scholarship**, Ghent University, 2021  
+- **Full PhD Scholarship**, Ghent Analysis & PDE Center, Ghent University, 2021  
 - **First Class Scholarship**, Haihui Data Analysis Laboratory, BUAA (2020)  
 - **Second Class Scholarship**, BUAA (2020)  
 - **Second Class Scholarship**, Haihui Lab, BUAA (2019)  
