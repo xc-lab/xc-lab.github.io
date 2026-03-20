@@ -16,11 +16,11 @@ Email: xuechao.wang@ugent.be
 ## 📖 Education
 ---
 - **Ph.D. in Computer Science**  
-  Department of Mathematics: Analysis, Logic, and Discrete Mathematics, Ghent University, Ghent, Belgium  
-  *2021.09 – present*
+  Faculty of Sciences, Ghent University, Ghent, Belgium  
+  *2021.09 – 2026.01*
 
 - **M.Sc. in Applied Mathematics**  
-  School of Mathematics and Physics, Beihang University (BUAA), Beijing, China  
+  School of Mathematical Sciences, Beihang University, Beijing, China  
   *2018.09 – 2021.01*
   
 - **B.Sc. in Mathematics**  
